@@ -1,0 +1,6 @@
+"component","value","interpretation"
+"Stromal_first",0.453782101425021,"internal same-transcriptome association; sequential allocation order-dependent; not causation"
+"Immune_increment_second",0.313530572618687,"internal same-transcriptome association; sequential allocation order-dependent; not causation"
+"Residual",0.232687325956291,"internal same-transcriptome association; sequential allocation order-dependent; not causation"
+"Joint_R2",0.767312674043709,"internal same-transcriptome association; sequential allocation order-dependent; not causation"
+"Joint_R2_after_orientation_flip",0.767312674043708,"internal same-transcriptome association; sequential allocation order-dependent; not causation"

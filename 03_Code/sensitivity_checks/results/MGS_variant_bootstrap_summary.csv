@@ -1,0 +1,4 @@
+"variant","successful","attempted","mean_tau","q025","q975","definition"
+"anchor_genes_excluded",500,500,0.883881078283916,0.602052686322998,0.981165187772281,"conditional subject bootstrap; selected genes fixed; interval of tau distribution, not CI for a biological effect"
+"composition_residualized",500,500,0.649404614947912,-0.729352554043125,0.900616241616476,"conditional subject bootstrap; selected genes fixed; interval of tau distribution, not CI for a biological effect"
+"original",500,500,0.882262793122418,0.611692355191106,0.980091109007925,"conditional subject bootstrap; selected genes fixed; interval of tau distribution, not CI for a biological effect"

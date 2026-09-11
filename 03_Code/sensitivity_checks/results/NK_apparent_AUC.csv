@@ -1,0 +1,5 @@
+"metric","value","note"
+"NK_apparent_AUC",0.873846153846154,"same 38 patients, no selection adjustment"
+"NK_apparent_DeLong_low",0.762782665063334,"not selection-adjusted"
+"NK_apparent_DeLong_high",0.984909642628973,"not selection-adjusted"
+"selected_marker_apparent_AUC",0.873846153846154,"自然杀伤细胞"

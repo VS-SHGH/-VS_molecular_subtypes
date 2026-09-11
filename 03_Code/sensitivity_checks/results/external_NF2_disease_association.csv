@@ -1,0 +1,5 @@
+"Dataset","scope","n","NF2_associated","p","field_meaning"
+"GSE141801","all_unambiguous",53,15,0.000716585796740769,"clinical NF2-associated disease; NOT tumour NF2 mutation"
+"GSE141801","nonirradiated_unambiguous",46,12,8.27653528544315e-05,"clinical NF2-associated disease; NOT tumour NF2 mutation"
+"GSE39645","all_unambiguous",29,3,1,"clinical NF2-associated disease; NOT tumour NF2 mutation"
+"GSE39645","nonirradiated_unambiguous",28,2,1,"clinical NF2-associated disease; NOT tumour NF2 mutation"

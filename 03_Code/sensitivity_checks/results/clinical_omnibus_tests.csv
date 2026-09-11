@@ -1,0 +1,10 @@
+"model","outcome","method","n","joint_subtype_Wald","df","p","q_primary_two_surgical_endpoints"
+"adhesion_unadjusted","brainstem_adhesion","firth",38,6.23812214575895,2,0.0441986482529105,
+"texture_unadjusted","texture_soft_medium_hard","ordinal",38,9.85433899604209,2,0.00724698688898547,
+"adhesion_size_adjusted","brainstem_adhesion","firth",38,6.59774838166523,2,0.036924714191713,0.036924714191713
+"texture_size_adjusted","texture_soft_medium_hard","ordinal",38,9.96082989027238,2,0.00687121079037652,0.013742421580753
+"adhesion_size_age_sensitivity","brainstem_adhesion","firth",38,3.79872126561443,2,0.149664279068461,
+"texture_size_age_sensitivity","texture_soft_medium_hard","ordinal",38,9.62977218114434,2,0.00810814561952992,
+"NK_age_adjusted","NK_recorded_laboratory_measure","linear",38,11.4283051167794,2,0.00329894500067184,
+"NK_age_size_binary_legacy","NK_recorded_laboratory_measure","linear",38,8.4644953892799,2,0.0145197179509486,
+"NK_age_size_continuous","NK_recorded_laboratory_measure","linear",38,13.7588460829355,2,0.00102873741281178,

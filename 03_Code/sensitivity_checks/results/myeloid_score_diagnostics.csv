@@ -1,0 +1,5 @@
+"metric","value"
+"old_patient_score_vs_median_UMI_spearman",0.910714285714286
+"new_patient_score_vs_median_UMI_spearman",0.721428571428571
+"old_new_patient_score_spearman",0.907142857142857
+"fresh_frozen_patient_score_wilcoxon_p",0.00500048998333321
