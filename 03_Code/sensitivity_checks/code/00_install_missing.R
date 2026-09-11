@@ -1,6 +1,0 @@
-source(file.path(dirname(sub('^--file=','',grep('^--file=',commandArgs(),value=TRUE)[1])),'00_config.R'))
-start_log('00_install_missing')
-Sys.setenv(R_MAKEVARS_USER=file.path(ROOT,'code','Makevars.task'))
-if(!requireNamespace('logistf',quietly=TRUE)) install.packages('logistf',lib=tasklib,repos='https://cloud.r-project.org',type='source')
-stopifnot(requireNamespace('logistf',quietly=TRUE))
-end_log()

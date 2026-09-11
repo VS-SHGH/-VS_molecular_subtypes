@@ -1,3 +1,0 @@
-"method","mean_AUC","split_q025","split_q975","interval_type","patients","folds","repetitions"
-"selection_within_training_fold",0.823923076923077,0.670615384615385,0.864615384615385,"distribution across repeated splits, NOT a population 95% confidence interval",38,5,100
-"fixed_NK_only",0.843723076923077,0.821538461538462,0.864615384615385,"distribution across repeated splits, NOT a population 95% confidence interval",38,5,100
